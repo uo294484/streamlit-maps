@@ -1,8 +1,5 @@
-# Paquetes esenciales para mapas / GDAL
 gdal-bin
 python3-gdal
-
-# Otras dependencias que no entren en conflicto
 python3-numpy
 proj-bin
 proj-data
