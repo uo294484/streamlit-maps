@@ -3,3 +3,7 @@ geopandas
 leafmap
 owslib
 streamlit
+gdal==3.6.2
+numpy
+pandas
+folium
